@@ -1,6 +1,6 @@
 # Challenge 11
 
-This analysis was conducted to forecast the company's financial and user data in clever ways to make the company grow, as well as find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+This analysis was conducted to forecast the company's (MELI) financial and user data in clever ways to make the company grow, as well as find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 This analysis looks into data representing visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
 An evaluation of how the company’s stock price correlates to its Google Search traffic.
 A Prophet forecast model that can predict hourly user search traffic.
